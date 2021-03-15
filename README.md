@@ -23,7 +23,7 @@ wget -f https://raw.githubusercontent.com/Yefancy/GTOC/master/gtoc_installer.lua
 
 #### Mods
 
-**[gtce2oc-1.7.0](https://minecraft.curseforge.com/projects/gtce2oc) (important)**
+**gtce2oc-1.7.0 or gregicality-0.21**
 
 #### Client
 
